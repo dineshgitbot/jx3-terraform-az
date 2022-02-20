@@ -6,5 +6,5 @@ apex_domain_integration_enabled = true
 apex_domain_name = "dineshpatil.net"
 jx_bot_username = "dineshazpatil"
 subdomain = "jx"
-location = "easeus"
+location = "eastus"
 cluster_version = "1.20.13"
