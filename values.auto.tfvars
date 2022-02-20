@@ -4,3 +4,4 @@ cluster_resource_group_name="jx3aksrg"
 apex_resource_group_name="jxdnsrg"
 apex_domain_integration_enabled = true
 apex_domain_name = "dineshpatil.net"
+jx_bot_username = "dineshazpatil"
